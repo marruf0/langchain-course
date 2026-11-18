@@ -7,7 +7,6 @@ load_dotenv()
 
 
 def main():
-    print("hello world")
 
     ### 10. Building a LangChain Chain to Summarize Text
     information="""
